@@ -17,9 +17,14 @@ namespace miPrimerProyectoCsharp
             InitializeComponent();
         }
 
-        private void btnSaludar_Click(object sender, EventArgs e)
-        {lblSaludo.Text = "¡Hola, " + txtNombre.Text + "! Bienvenido a mi primer proyecto en C#."; }
-
+        private void btncalcular_Click(object sender, EventArgs e)
+        {
+            double num1, num2, respuesta;
+            num1 = double.Parse(txtnum1.Text);
+            num2 = double.Parse(txtnum2.Text); 
+            respuesta = num1 + num2;
+            lblrespuesta.Text = "La respuesta es: " + respuesta;
+        }
     }
     }
 

@@ -8,3 +8,4 @@ C:\Users\User\Desktop\Progra1-semi-2025\miPrimerProyectoCsharp\miPrimerProyectoC
 C:\Users\User\Desktop\Progra1-semi-2025\miPrimerProyectoCsharp\miPrimerProyectoCsharp\bin\Debug\miPrimerProyectoCsharp.pdb
 C:\Users\User\Desktop\Progra1-semi-2025\miPrimerProyectoCsharp\miPrimerProyectoCsharp\obj\Debug\miPrimerProyectoCsharp.exe
 C:\Users\User\Desktop\Progra1-semi-2025\miPrimerProyectoCsharp\miPrimerProyectoCsharp\obj\Debug\miPrimerProyectoCsharp.pdb
+C:\Users\User\Desktop\Progra1-semi-2025\miPrimerProyectoCsharp\miPrimerProyectoCsharp\obj\Debug\miPrimerProyectoCsharp.exe.config
