@@ -19,12 +19,56 @@ namespace miPrimerProyectoCsharp
 
         private void btncalcular_Click(object sender, EventArgs e)
         {
-            double num1, num2, respuesta;
+            double num1, num2, respuesta=0;
             num1 = double.Parse(txtnum1.Text);
-            num2 = double.Parse(txtnum2.Text); 
-            respuesta = num1 + num2;
-            lblrespuesta.Text = "La respuesta es: " + respuesta;
+            num2 = double.Parse(txtnum2.Text);
+            if (optsuma.Checked) 
+            {
+                respuesta = num1 + num2;
+            }
+            if (optresta.Checked)
+            {
+                respuesta = num1 - num2;
+            }
+            if (optmultiplicacion.Checked)
+            {
+                respuesta = num1 * num2;
+            }
+            if (optdivision.Checked)
+            {
+                respuesta = num1 / num2;
+            }
+            if (optexponente.Checked)
+            {
+                respuesta = Math.Pow(num1, num2);
+            }
+            //Porcentaje.
+            //Factorial.
+            //Modulo.
         }
-    }
+
+        private void btncalcularopciones_Click(object sender, EventArgs e)
+        {
+            double num1, num2, respuesta = 0;
+            num1 = double.Parse(txtnum1.Text);
+            num2 = double.Parse(txtnum2.Text);
+
+            switch (cboopciones.SelectedIndex) {
+                case 0:
+                    respuesta = num1 + num2;
+                    break;
+                case 1:
+                    respuesta = num1 - num2;
+                    break;
+                case 2:
+                    respuesta = num1 * num2;
+                    break;
+                case 3:
+                    respuesta = num1 / num2;
+                    break;
+            }
+             lblrespuesta.Text = "La respuesta es: " + respuesta;
+            }
+        }
     }
 
