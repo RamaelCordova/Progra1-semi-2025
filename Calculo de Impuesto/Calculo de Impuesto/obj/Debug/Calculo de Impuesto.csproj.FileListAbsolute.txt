@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Progra1-semi-2025\Calculo de Impuesto\Calculo de Impuesto\bin\Debug\Calculo de Impuesto.exe.config
+C:\Users\User\Desktop\Progra1-semi-2025\Calculo de Impuesto\Calculo de Impuesto\bin\Debug\Calculo de Impuesto.exe
+C:\Users\User\Desktop\Progra1-semi-2025\Calculo de Impuesto\Calculo de Impuesto\bin\Debug\Calculo de Impuesto.pdb
+C:\Users\User\Desktop\Progra1-semi-2025\Calculo de Impuesto\Calculo de Impuesto\obj\Debug\Calculo de Impuesto.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Progra1-semi-2025\Calculo de Impuesto\Calculo de Impuesto\obj\Debug\Calculo_de_Impuesto.frmImpuesto.resources
+C:\Users\User\Desktop\Progra1-semi-2025\Calculo de Impuesto\Calculo de Impuesto\obj\Debug\Calculo_de_Impuesto.Properties.Resources.resources
+C:\Users\User\Desktop\Progra1-semi-2025\Calculo de Impuesto\Calculo de Impuesto\obj\Debug\Calculo de Impuesto.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Progra1-semi-2025\Calculo de Impuesto\Calculo de Impuesto\obj\Debug\Calculo de Impuesto.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Progra1-semi-2025\Calculo de Impuesto\Calculo de Impuesto\obj\Debug\Calculo de Impuesto.exe
+C:\Users\User\Desktop\Progra1-semi-2025\Calculo de Impuesto\Calculo de Impuesto\obj\Debug\Calculo de Impuesto.pdb
