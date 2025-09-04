@@ -1,0 +1,22 @@
+C:\Users\MINEDUCYT\Desktop\Area cuadrada\Area cuadrada\obj\Debug\Area cuadrada.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Desktop\Area cuadrada\Area cuadrada\obj\Debug\Area_cuadrada.Form1.resources
+C:\Users\MINEDUCYT\Desktop\Area cuadrada\Area cuadrada\obj\Debug\Area_cuadrada.Properties.Resources.resources
+C:\Users\MINEDUCYT\Desktop\Area cuadrada\Area cuadrada\obj\Debug\Area cuadrada.csproj.GenerateResource.cache
+C:\Users\MINEDUCYT\Desktop\Area cuadrada\Area cuadrada\obj\Debug\Area cuadrada.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\Area cuadrada\Area cuadrada\bin\Debug\Area cuadrada.exe.config
+C:\Users\MINEDUCYT\Desktop\Area cuadrada\Area cuadrada\bin\Debug\Area cuadrada.exe
+C:\Users\MINEDUCYT\Desktop\Area cuadrada\Area cuadrada\bin\Debug\Area cuadrada.pdb
+C:\Users\MINEDUCYT\Desktop\Area cuadrada\Area cuadrada\obj\Debug\Area cuadrada.exe
+C:\Users\MINEDUCYT\Desktop\Area cuadrada\Area cuadrada\obj\Debug\Area cuadrada.pdb
+C:\Users\MINEDUCYT\Desktop\Area cuadrada\Area cuadrada\obj\Debug\Area cuadrada.exe.config
+C:\Users\User\Documents\Area cuadrada\Area cuadrada\bin\Debug\Area cuadrada.exe.config
+C:\Users\User\Documents\Area cuadrada\Area cuadrada\bin\Debug\Area cuadrada.exe
+C:\Users\User\Documents\Area cuadrada\Area cuadrada\bin\Debug\Area cuadrada.pdb
+C:\Users\User\Documents\Area cuadrada\Area cuadrada\obj\Debug\Area cuadrada.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Area cuadrada\Area cuadrada\obj\Debug\Area cuadrada.exe.config
+C:\Users\User\Documents\Area cuadrada\Area cuadrada\obj\Debug\Area_cuadrada.Form1.resources
+C:\Users\User\Documents\Area cuadrada\Area cuadrada\obj\Debug\Area_cuadrada.Properties.Resources.resources
+C:\Users\User\Documents\Area cuadrada\Area cuadrada\obj\Debug\Area cuadrada.csproj.GenerateResource.cache
+C:\Users\User\Documents\Area cuadrada\Area cuadrada\obj\Debug\Area cuadrada.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Area cuadrada\Area cuadrada\obj\Debug\Area cuadrada.exe
+C:\Users\User\Documents\Area cuadrada\Area cuadrada\obj\Debug\Area cuadrada.pdb
